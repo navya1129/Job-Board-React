@@ -1,0 +1,461 @@
+{
+    "companies": [
+        {
+            "id": "c1",
+            "name": "Aura Design"
+        },
+        {
+            "id": "c2",
+            "name": "Vortex Tech"
+        },
+        {
+            "id": "c3",
+            "name": "Nexus Labs"
+        },
+        {
+            "id": "c4",
+            "name": "Elysian Group"
+        },
+        {
+            "id": "c5",
+            "name": "Zenith AI"
+        }
+    ],
+    "jobs": [
+        {
+            "id": "j1",
+            "title": "Senior Frontend Engineer",
+            "companyId": "c1",
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 160000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "React",
+                "CSS",
+                "TypeScript"
+            ],
+            "postedDate": "2024-03-01"
+        },
+        {
+            "id": "j2",
+            "title": "UI Designer",
+            "companyId": "c2",
+            "location": "Hybrid - New York",
+            "jobType": "Hybrid",
+            "salary": 120000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Figma",
+                "UI/UX",
+                "Design Systems"
+            ],
+            "postedDate": "2024-03-02"
+        },
+        {
+            "id": "j3",
+            "title": "Backend Architect",
+            "companyId": "c3",
+            "location": "Onsite - Austin",
+            "jobType": "Onsite",
+            "salary": 185000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "Node.js",
+                "Docker",
+                "PostgreSQL"
+            ],
+            "postedDate": "2024-03-03"
+        },
+        {
+            "id": "j4",
+            "title": "Product Manager",
+            "companyId": "c4",
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 140000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "Agile",
+                "Strategy",
+                "Roadmapping"
+            ],
+            "postedDate": "2024-03-04"
+        },
+        {
+            "id": "j5",
+            "title": "Motion Designer",
+            "companyId": "c5",
+            "location": "Hybrid - SF",
+            "jobType": "Hybrid",
+            "salary": 110000,
+            "experienceLevel": "Junior",
+            "skills": [
+                "After Effects",
+                "Lottie",
+                "SVG"
+            ],
+            "postedDate": "2024-03-05"
+        },
+        {
+            "id": "j6",
+            "title": "DevOps Engineer",
+            "companyId": "c1",
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 155000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "K8s",
+                "AWS",
+                "CI/CD"
+            ],
+            "postedDate": "2024-03-06"
+        },
+        {
+            "id": "j7",
+            "title": "Fullstack Developer",
+            "companyId": "c2",
+            "location": "Onsite - Seattle",
+            "jobType": "Onsite",
+            "salary": 135000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Next.js",
+                "Prisma",
+                "Tailwind"
+            ],
+            "postedDate": "2024-03-07"
+        },
+        {
+            "id": "j8",
+            "title": "Lead Researcher",
+            "companyId": "c3",
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 170000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "User Research",
+                "Data Analysis",
+                "Python"
+            ],
+            "postedDate": "2024-03-08"
+        },
+        {
+            "id": "j9",
+            "title": "Brand Strategist",
+            "companyId": "c4",
+            "location": "Hybrid - London",
+            "jobType": "Hybrid",
+            "salary": 95000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Marketing",
+                "Branding",
+                "SEO"
+            ],
+            "postedDate": "2024-03-09"
+        },
+        {
+            "id": "j10",
+            "title": "AI Research Engineer",
+            "companyId": "c5",
+            "location": "Onsite - Berlin",
+            "jobType": "Onsite",
+            "salary": 190000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "PyTorch",
+                "NLP",
+                "Math"
+            ],
+            "postedDate": "2024-03-10"
+        },
+        {
+            "id": "j11",
+            "title": "Growth Lead",
+            "companyId": "c1",
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 125000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Analytics",
+                "A/B Testing",
+                "Mixpanel"
+            ],
+            "postedDate": "2024-03-11"
+        },
+        {
+            "id": "j12",
+            "title": "Cybersecurity Analyst",
+            "companyId": "c2",
+            "location": "Onsite - Tokyo",
+            "jobType": "Onsite",
+            "salary": 145000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Security",
+                "Network",
+                "Linux"
+            ],
+            "postedDate": "2024-03-12"
+        },
+        {
+            "id": "j13",
+            "title": "Mobile Developer",
+            "companyId": "c3",
+            "location": "Hybrid - Chicago",
+            "jobType": "Hybrid",
+            "salary": 115000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "React Native",
+                "Swift",
+                "Kotlin"
+            ],
+            "postedDate": "2024-03-13"
+        },
+        {
+            "id": "j14",
+            "title": "Customer Success",
+            "companyId": "c4",
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 85000,
+            "experienceLevel": "Junior",
+            "skills": [
+                "Communication",
+                "SaaS",
+                "HubSpot"
+            ],
+            "postedDate": "2024-03-14"
+        },
+        {
+            "id": "j15",
+            "title": "Technical Writer",
+            "companyId": "c5",
+            "location": "Hybrid - Paris",
+            "jobType": "Hybrid",
+            "salary": 90000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Documentation",
+                "API",
+                "Markdown"
+            ],
+            "postedDate": "2024-03-15"
+        },
+        {
+            "id": "j16",
+            "title": "Data Scientist",
+            "companyId": "c1",
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 165000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "SQL",
+                "Scikit-Learn",
+                "R"
+            ],
+            "postedDate": "2024-03-16"
+        },
+        {
+            "id": "j17",
+            "title": "Project Coordinator",
+            "companyId": "c2",
+            "location": "Onsite - Boston",
+            "jobType": "Onsite",
+            "salary": 75000,
+            "experienceLevel": "Junior",
+            "skills": [
+                "Coordination",
+                "Jira",
+                "Excel"
+            ],
+            "postedDate": "2024-03-17"
+        },
+        {
+            "id": "j18",
+            "title": "QA Automation Engineer",
+            "companyId": "c3",
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 130000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Playwright",
+                "Jest",
+                "Cypress"
+            ],
+            "postedDate": "2024-03-18"
+        },
+        {
+            "id": "j19",
+            "title": "Creative Director",
+            "companyId": "c4",
+            "location": "Hybrid - LA",
+            "jobType": "Hybrid",
+            "salary": 195000,
+            "experienceLevel": "Extraordinary",
+            "skills": [
+                "Creative Direction",
+                "Art",
+                "Leadership"
+            ],
+            "postedDate": "2024-03-19"
+        },
+        {
+            "id": "j21",
+            "title": "Principal Design System Engineer",
+            "companyId": "c1",
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 210000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "React",
+                "Storybook",
+                "Figma API"
+            ],
+            "postedDate": "2024-03-21"
+        },
+        {
+            "id": "j22",
+            "title": "Machine Learning Platform Lead",
+            "companyId": "c2",
+            "location": "Hybrid - New York",
+            "jobType": "Hybrid",
+            "salary": 225000,
+            "experienceLevel": "Expert",
+            "skills": [
+                "PyTorch",
+                "Kubernetes",
+                "Golang"
+            ],
+            "postedDate": "2024-03-22"
+        },
+        {
+            "id": "j23",
+            "title": "Global Security Officer",
+            "companyId": "c3",
+            "location": "Onsite - Zurich",
+            "jobType": "Onsite",
+            "salary": 240000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "Compliance",
+                "Risk Management",
+                "ISO 27001"
+            ],
+            "postedDate": "2024-03-23"
+        },
+        {
+            "id": "j24",
+            "title": "Staff Product Designer",
+            "companyId": "c4",
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 195000,
+            "experienceLevel": "Lead",
+            "skills": [
+                "Product Strategy",
+                "Prototyping",
+                "Visual Design"
+            ],
+            "postedDate": "2024-03-24"
+        },
+        {
+            "id": "j25",
+            "title": "Director of Engineering",
+            "companyId": "c5",
+            "location": "Onsite - Singapore",
+            "jobType": "Onsite",
+            "salary": 280000,
+            "experienceLevel": "Executive",
+            "skills": [
+                "Leadership",
+                "Scale",
+                "Strategy"
+            ],
+            "postedDate": "2024-03-25"
+        },
+        {
+            "id": "j26",
+            "title": "Blockchain Protocol Architect",
+            "companyId": "c1",
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 205000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "Rust",
+                "Solidity",
+                "Cryptography"
+            ],
+            "postedDate": "2024-03-26"
+        },
+        {
+            "id": "j27",
+            "title": "VP of Growth & Analytics",
+            "companyId": "c2",
+            "location": "Hybrid - Los Angeles",
+            "jobType": "Hybrid",
+            "salary": 230000,
+            "experienceLevel": "Executive",
+            "skills": [
+                "Data Science",
+                "Marketing Tech",
+                "Behavioral Economics"
+            ],
+            "postedDate": "2024-03-27"
+        },
+        {
+            "id": "j28",
+            "title": "Senior Site Reliability Engineer",
+            "companyId": "c3",
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 185000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "Terraform",
+                "AWS",
+                "Prometheus"
+            ],
+            "postedDate": "2024-03-28"
+        },
+        {
+            "id": "j29",
+            "title": "E-commerce Solutions Architect",
+            "companyId": "c4",
+            "location": "Hybrid - Toronto",
+            "jobType": "Hybrid",
+            "salary": 175000,
+            "experienceLevel": "Mid-Senior",
+            "skills": [
+                "Shopify Plus",
+                "React",
+                "GraphQL"
+            ],
+            "postedDate": "2024-03-29"
+        },
+        {
+            "id": "j30",
+            "title": "Head of Creative Production",
+            "companyId": "c5",
+            "location": "Onsite - Paris",
+            "jobType": "Onsite",
+            "salary": 190000,
+            "experienceLevel": "Lead",
+            "skills": [
+                "Art Direction",
+                "Content Strategy",
+                "Motion Design"
+            ],
+            "postedDate": "2024-03-30"
+        }
+    ]
+}
