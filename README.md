@@ -4,14 +4,18 @@ A high-end, production-ready React job board application featuring a sleek black
 
 ## Features
 
-- **Advanced Filtering**: Filter by job type, multiple skills, and salary range.
-- **Dynamic Search**: Debounced search by job title or company name.
-- **Dual View Support**: Seamlessly toggle between Grid and List views with smooth transitions.
-- **Bookmarking**: Persistent bookmarking system using LocalStorage.
-- **Application Tracker**: Dedicated page for managing saved opportunities.
-- **Responsive Design**: Fully optimized for Desktop, Tablet, and Mobile.
-- **Premium UI/UX**: Custom CSS-only animations, minimal 1-color theme, and state-of-the-art spacing.
+- Smart Sorting Options: Organize listings by relevance, experience level, and
+compensation range.
 
+- Instant Keyword Lookup: Real-time search with optimized performance for roles and organizations.
+
+- Flexible Layout Modes: Switch effortlessly between Compact and Detailed views with fluid animations.
+
+- Saved Items System: Store and manage favorites securely using browser-based storage.
+
+- Opportunity Dashboard: Centralized section to track shortlisted roles and application status.
+
+= Device-First Layout: Designed to adapt flawlessly across mobile, tablet, and desktop screens.
 ## Tech Stack
 
 - **Frontend**: React 18, React Router 6
@@ -48,4 +52,4 @@ All critical elements are tagged with `data-testid` for automated testing:
 - Pagination: `data-testid="pagination-controls"`, `data-testid="pagination-next"`
 
 ## Author
-Krishna Tulasi Satti
+Navya Rayi
